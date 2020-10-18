@@ -1,2 +1,4 @@
 # NLW-03-AplicacaoCasaDeAcolhimento
-Opa eae glr da NLW, foi mal por ter feito só uma funcionalidade pra milha extra, acabei gastando mto tempo tentando colocar shimmer effect e me dei mal, sei que me desculpar nao vai adiantar mas pelo menos vou tentar me explicar o pq de ter sido uma funcionalidade simples como a do whatsapp.
+Opa eae glr da NLW, primeira vez fazendo a semana de voçês uheuehe, tomara que de tudo certo ae e que vcs gostem tbm .
+
+Pra usar a funcionalidade do whatsapp, basta inserir uma casa de acolhimento com todos os dados anteriores + "whatsapp_number" sem espaços e com DDD. (n tive tempo de fazer tratamento da string do numero :(. Mas se seguirem esses passos tudo vai dar certo.
